@@ -3,7 +3,7 @@
 Este é um **Gerador de Senhas** desenvolvido com **HTML**, **CSS** e **JavaScript**, projetado para criar senhas seguras de forma simples e personalizável.
 
 ## ⚙️ Funcionalidades
-- **Comprimento Personalizável**: Escolha o tamanho da senha (8 a 20 caracteres).
+- **Comprimento Personalizável**: Escolha o tamanho da senha.
 - **Critérios de Complexidade**:
   - Letras maiúsculas.
   - Letras minúsculas.
